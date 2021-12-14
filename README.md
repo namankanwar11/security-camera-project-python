@@ -1,1 +1,0 @@
-# security-camera-project-python
